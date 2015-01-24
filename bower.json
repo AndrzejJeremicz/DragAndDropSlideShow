@@ -2,7 +2,8 @@
   "name": "Drag and Drop Slideshow",
   "version": "0.0.2",
   "dependencies": {
-    "jquery": "~2.1"
+    "jquery": "~2.1",
+    "jquery-ui": "~1.11"
   },
   "private": true
 }
